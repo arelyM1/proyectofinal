@@ -1,8 +1,8 @@
 #Proyecto Fianl 
 ##Este es mi proyecto final, y este *documento* es la descripción de la arquitectura.
-#Seven Kayne
+#Seven Kayne-Una Semana
 ##Tu cora aceleró
-Tanta presión psicoemociona
+Tanta presión psicoemocional
 Nos está haciendo mal
 ¿Qué pasó? ¿Ya lo descifraste?
 Si estoy que discuto con mi demonio y mi ángel
